@@ -1,0 +1,67 @@
+# Core Python Libraries for Data Engineering
+# Generated for TuteDude Data Engineering Bootcamp
+
+# Data Processing & Analysis
+pandas==2.2.0
+numpy==1.26.3
+openpyxl==3.1.2  # Excel file support
+
+# Database Connectors
+mysql-connector-python==8.3.0
+psycopg2-binary==2.9.9  # PostgreSQL
+pymongo==4.6.1  # MongoDB (if needed)
+sqlalchemy==2.0.25
+
+# Big Data & Spark
+pyspark==3.5.0
+delta-spark==3.0.0
+pyarrow==14.0.2  # Arrow/Parquet support
+
+# Cloud Services
+google-cloud-storage==2.14.0
+google-cloud-bigquery==3.17.1
+
+# Data Validation & Quality
+great-expectations==0.18.8
+pydantic==2.5.3
+
+# File Format Handling
+pyarrow==14.0.2  # Parquet
+fastavro==1.9.3  # Avro
+xmltodict==0.13.0  # XML
+pyyaml==6.0.1  # YAML
+
+# Development & Testing
+pytest==7.4.4
+pytest-cov==4.1.0
+black==24.1.1  # Code formatter
+flake8==7.0.0  # Linter
+mypy==1.8.0  # Type checker
+
+# Logging & Monitoring
+python-dotenv==1.0.1
+loguru==0.7.2
+
+# Jupyter & Notebooks
+jupyterlab==4.0.11
+ipykernel==6.29.0
+jupyterlab-git==0.50.0
+
+# Performance & Profiling
+memory-profiler==0.61.0
+line-profiler==4.1.1
+
+# Data Visualization (optional but useful)
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+
+# Utilities
+python-dateutil==2.8.2
+requests==2.31.0
+tqdm==4.66.1  # Progress bars
+click==8.1.7  # CLI applications
+
+# Configuration Management
+configparser==6.0.0
+python-decouple==3.8
