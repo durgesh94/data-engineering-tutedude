@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="i9OAEoz6SJtpD7iPGvK8">
+    <mxGraphModel dx="1018" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7R-cf0V09QLItCEUHoQG-7" edge="1" parent="1" source="7R-cf0V09QLItCEUHoQG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7R-cf0V09QLItCEUHoQG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7R-cf0V09QLItCEUHoQG-8" edge="1" parent="1" source="7R-cf0V09QLItCEUHoQG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7R-cf0V09QLItCEUHoQG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7R-cf0V09QLItCEUHoQG-9" edge="1" parent="1" source="7R-cf0V09QLItCEUHoQG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7R-cf0V09QLItCEUHoQG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7R-cf0V09QLItCEUHoQG-10" edge="1" parent="1" source="7R-cf0V09QLItCEUHoQG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7R-cf0V09QLItCEUHoQG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7R-cf0V09QLItCEUHoQG-11" edge="1" parent="1" source="7R-cf0V09QLItCEUHoQG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7R-cf0V09QLItCEUHoQG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7R-cf0V09QLItCEUHoQG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Relationship in SQL" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7R-cf0V09QLItCEUHoQG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="One-to-One (1:1)" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7R-cf0V09QLItCEUHoQG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="One-to-Many (1:N)" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7R-cf0V09QLItCEUHoQG-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Many-to-One (N:1)" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7R-cf0V09QLItCEUHoQG-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Many-to-Many (M:N)" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7R-cf0V09QLItCEUHoQG-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Self-referencing (Recursive)" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
