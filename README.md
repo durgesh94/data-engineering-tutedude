@@ -7,8 +7,8 @@ A comprehensive hands-on learning repository documenting my journey through data
 ## 📊 Overall Progress
 
 - **Total Modules**: 50
-- **Completed**: Module 1-2 ✅
-- **In Progress**: Module 3 onwards
+- **Completed**: Module 1-4 ✅
+- **In Progress**: Module 5 onwards
 - **Assignments**: 0/8 completed
 - **Projects**: 0/3 completed
 - **Total Duration**: ~65+ hours
@@ -30,21 +30,21 @@ A comprehensive hands-on learning repository documenting my journey through data
 - [x] Purpose Built Databases
 - [x] RDBMS vs Database Technologies
 
-### **Module 3: Setting Up the System** 🔄
+### **Module 3: Setting Up the System** ✅
 *Duration: 39m 49s | Lectures: 0/3*
-- [ ] Setting up VS Code and Python
-- [ ] Setting up MySQL Server and PostgreSQL
-- [ ] Setting up Jupyter Lab online
+- [x] Setting up VS Code and Python
+- [x] Setting up MySQL Server and PostgreSQL
+- [x] Setting up Jupyter Lab online
 
 ---
 
 ## Phase 1: SQL Fundamentals 💾
 
-### **Module 4: Introduction to SQL Queries**
+### **Module 4: Introduction to SQL Queries** ✅
 *Duration: 41m 15s | Lectures: 0/3*
-- [ ] SQL basics and query structure
+- [x] SQL basics and query structure
 
-### **Module 5: Manipulation Commands in SQL**
+### **Module 5: Manipulation Commands in SQL** 🔄
 *Duration: 1h 24m | Lectures: 0/7*
 - [ ] INSERT, UPDATE, DELETE operations
 - [ ] Data manipulation techniques
