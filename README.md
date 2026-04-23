@@ -7,8 +7,8 @@ A comprehensive hands-on learning repository documenting my journey through data
 ## 📊 Overall Progress
 
 - **Total Modules**: 50
-- **Completed**: Module 1-4 ✅
-- **In Progress**: Module 5 onwards
+- **Completed**: Module 1-5 ✅
+- **In Progress**: Module 6 onwards
 - **Assignments**: 0/8 completed
 - **Projects**: 0/3 completed
 - **Total Duration**: ~65+ hours
@@ -36,6 +36,12 @@ A comprehensive hands-on learning repository documenting my journey through data
 - [x] Setting up MySQL Server and PostgreSQL
 - [x] Setting up Jupyter Lab online
 
+### **Module 4: Introduction to SQL Queries** ✅
+*Duration: 41m 15s | Lectures: 0/3*
+- [x] SQL basics and query structure
+- [x] Understanding relationships (1:1, 1:N, M:N)
+- [x] Foreign keys and referential integrity
+
 ---
 
 ## Phase 1: SQL Fundamentals 💾
@@ -44,12 +50,14 @@ A comprehensive hands-on learning repository documenting my journey through data
 *Duration: 41m 15s | Lectures: 0/3*
 - [x] SQL basics and query structure
 
-### **Module 5: Manipulation Commands in SQL** 🔄
+### **Module 5: Manipulation Commands in SQL** ✅
 *Duration: 1h 24m | Lectures: 0/7*
-- [ ] INSERT, UPDATE, DELETE operations
-- [ ] Data manipulation techniques
+- [x] INSERT, UPDATE, DELETE operations
+- [x] Data manipulation techniques
+- [x] CREATE, ALTER, DROP, TRUNCATE commands
+- [x] Created comprehensive SQL manipulation tutorial files
 
-### **Module 6: Retrieving Data in SQL**
+### **Module 6: Retrieving Data in SQL** 🔄
 *Duration: 44m 37s | Lectures: 0/4*
 - [ ] SELECT statements
 - [ ] WHERE clause and filtering
