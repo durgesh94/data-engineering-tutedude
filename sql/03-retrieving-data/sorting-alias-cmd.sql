@@ -736,4 +736,12 @@ NULL Sorting:
 -- 10. Can reference created aliases in ORDER BY clause
 -- 11. NULL handling in ORDER BY varies by database
 -- 12. Complex queries with aliases are easier to understand
+-- 13. DISTINCT removes duplicate rows from result set
+-- 14. DISTINCT with multiple columns removes duplicate combinations
+-- 15. Use COUNT(DISTINCT col) to count unique values
+-- 16. DISTINCT uses all selected columns for comparison
+-- 17. NULL is treated as a unique value in DISTINCT
+-- 18. DISTINCT has performance impact on large datasets
+-- 19. DISTINCT vs GROUP BY: Choose based on need (uniqueness vs aggregation)
+-- 20. Always place WHERE before DISTINCT for better performance
 -- ===============================================
