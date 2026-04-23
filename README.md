@@ -731,9 +731,9 @@ If you find any errors or have suggestions:
 ## 📬 Contact & Support
 
 For questions, discussions, or collaboration:
-- **GitHub**: [Your GitHub Profile]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub**: [durgesh94](https://github.com/durgesh94)
+- **Email**: [durgesh.tambe94@gmail.com](mailto:durgesh.tambe94@gmail.com)
+- **LinkedIn**: [Durgesh Tambe](https://www.linkedin.com/in/durgesh-tambe-b7aba380/)
 
 For course-specific queries:
 - Use the TuteDude platform mentor support
