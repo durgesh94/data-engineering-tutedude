@@ -31,13 +31,13 @@ A comprehensive hands-on learning repository documenting my journey through data
 - [x] RDBMS vs Database Technologies
 
 ### **Module 3: Setting Up the System** ✅
-*Duration: 39m 49s | Lectures: 0/3*
+*Duration: 39m 49s | Lectures: 3/3*
 - [x] Setting up VS Code and Python
 - [x] Setting up MySQL Server and PostgreSQL
 - [x] Setting up Jupyter Lab online
 
 ### **Module 4: Introduction to SQL Queries** ✅
-*Duration: 41m 15s | Lectures: 0/3*
+*Duration: 41m 15s | Lectures: 3/3*
 - [x] SQL basics and query structure
 - [x] Understanding relationships (1:1, 1:N, M:N)
 - [x] Foreign keys and referential integrity
@@ -47,40 +47,40 @@ A comprehensive hands-on learning repository documenting my journey through data
 ## Phase 1: SQL Fundamentals 💾
 
 ### **Module 4: Introduction to SQL Queries** ✅
-*Duration: 41m 15s | Lectures: 0/3*
+*Duration: 41m 15s | Lectures: 3/3*
 - [x] SQL basics and query structure
 
 ### **Module 5: Manipulation Commands in SQL** ✅
-*Duration: 1h 24m | Lectures: 0/7*
+*Duration: 1h 24m | Lectures: 7/7*
 - [x] INSERT, UPDATE, DELETE operations
 - [x] Data manipulation techniques
 - [x] CREATE, ALTER, DROP, TRUNCATE commands
 - [x] Created comprehensive SQL manipulation tutorial files
 
-### **Module 6: Retrieving Data in SQL** 🔄
-*Duration: 44m 37s | Lectures: 0/4*
-- [ ] SELECT statements
-- [ ] WHERE clause and filtering
+### **Module 6: Retrieving Data in SQL** ✅
+*Duration: 44m 37s | Lectures: 4/4*
+- [x] SELECT statements
+- [x] WHERE clause and filtering
 
-### **Module 7: Aggregation in SQL**
-*Duration: 28m 20s | Lectures: 0/2*
-- [ ] GROUP BY, HAVING
-- [ ] Aggregate functions (COUNT, SUM, AVG, MIN, MAX)
+### **Module 7: Aggregation in SQL** ✅
+*Duration: 28m 20s | Lectures: 2/2*
+- [x] GROUP BY, HAVING
+- [x] Aggregate functions (COUNT, SUM, AVG, MIN, MAX)
 
-### **Module 8: Joins in SQL**
-*Duration: 1h 31m | Lectures: 0/7*
-- [ ] INNER JOIN, LEFT JOIN, RIGHT JOIN
-- [ ] FULL OUTER JOIN, CROSS JOIN
-- [ ] Self joins and multiple joins
+### **Module 8: Joins in SQL** ✅
+*Duration: 1h 31m | Lectures: 7/7*
+- [x] INNER JOIN, LEFT JOIN, RIGHT JOIN
+- [x] FULL OUTER JOIN, CROSS JOIN
+- [x] Self joins and multiple joins
 
-### **Module 9: Set Operators in SQL**
-*Duration: 26m 31s | Lectures: 0/2*
-- [ ] UNION, UNION ALL
-- [ ] INTERSECT, EXCEPT
+### **Module 9: Set Operators in SQL** ✅
+*Duration: 26m 31s | Lectures: 2/2*
+- [x] UNION, UNION ALL
+- [x] INTERSECT, EXCEPT
 
-### **Module 10: Subqueries and Case Statements**
-*Duration: 1h 38m | Lectures: 0/7*
-- [ ] Correlated and non-correlated subqueries
+### **Module 10: Subqueries and Case Statements** 🔄
+*Duration: 1h 38m | Lectures: 1/7*
+- [x] Correlated and non-correlated subqueries
 - [ ] CASE WHEN statements
 - [ ] Nested queries
 
@@ -756,6 +756,12 @@ This project is for educational purposes. Course content belongs to TuteDude.
 - ✅ **Module 3 Completed**: March 12, 2026
 - ✅ **Module 4 Completed**: March 14, 2026
 - ✅ **Module 5 Completed**: April 23, 2026
+- ✅ **Module 6 Completed**: April 23, 2026
+- ✅ **Module 7 Completed**: April 24, 2026
+- ✅ **Module 8 Completed**: April 24, 2026
+- ✅ **Module 9 Completed**: April 24, 2026
+- ✅ **Module 10 In Progress**: April 24, 2026
+
 
 
 ---
