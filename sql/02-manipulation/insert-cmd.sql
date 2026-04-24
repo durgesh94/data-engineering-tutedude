@@ -62,3 +62,21 @@ INSERT INTO project_assignment (assignment_id, employeeId, projectId, role, allo
 -- Emily Brown (Finance) - Multiple projects
 (6, 4, 1, 'Finance Consultant', 30.00, '2025-01-15'),
 (7, 4, 5, 'Audit Lead', 100.00, '2025-04-01');
+
+-- ============================================================================
+-- ADDITIONAL BULK DATA
+-- ============================================================================
+-- For bulk insertion of 46 additional employee records, use the separate script:
+-- File: insert-employee-bulk-data.sql
+-- 
+-- This adds employees with IDs 5-50, distributed across all 4 departments:
+--   - HR Department (1):          9 employees (IDs 5-13)
+--   - Engineering Department (2): 15 employees (IDs 14-28)
+--   - Sales Department (3):       12 employees (IDs 29-40)
+--   - Finance Department (4):     10 employees (IDs 41-50)
+--
+-- EXECUTION ORDER:
+--   1. Run this script first (insert-cmd.sql)
+--   2. Then run insert-employee-bulk-data.sql
+--
+-- ============================================================================
