@@ -75,8 +75,18 @@ INSERT INTO project_assignment (assignment_id, employeeId, projectId, role, allo
 --   - Sales Department (3):       12 employees (IDs 29-40)
 --   - Finance Department (4):     10 employees (IDs 41-50)
 --
+-- For bulk insertion of 14 additional projects + 33 assignments, use:
+-- File: insert-project-bulk-data.sql
+--
+-- This adds projects with IDs 7-20 and their assignments:
+--   - HR Department (1):          3 projects (IDs 7-9)
+--   - Engineering Department (2): 6 projects (IDs 10-15)
+--   - Sales Department (3):       3 projects (IDs 16-18)
+--   - Finance Department (4):     2 projects (IDs 19-20, UNASSIGNED)
+--
 -- EXECUTION ORDER:
 --   1. Run this script first (insert-cmd.sql)
---   2. Then run insert-employee-bulk-data.sql
+--   2. Run insert-employee-bulk-data.sql
+--   3. Run insert-project-bulk-data.sql
 --
 -- ============================================================================

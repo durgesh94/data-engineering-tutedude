@@ -154,4 +154,8 @@ INSERT INTO employee (employeeId, first_name, last_name, email, salary, departme
 --   - Sales (3):      12 employees
 --   - Finance (4):    10 employees
 -- Average Salary Range: $52,000 - $120,000
+--
+-- NEXT STEP:
+-- After running this script, execute: insert-project-bulk-data.sql
+-- This will add 14 new projects and ~33 project assignments
 -- ============================================================================
