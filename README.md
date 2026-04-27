@@ -78,26 +78,26 @@ A comprehensive hands-on learning repository documenting my journey through data
 - [x] UNION, UNION ALL
 - [x] INTERSECT, EXCEPT
 
-### **Module 10: Subqueries and Case Statements** 🔄
-*Duration: 1h 38m | Lectures: 1/7*
+### **Module 10: Subqueries and Case Statements** ✅
+*Duration: 1h 38m | Lectures: 7/7*
 - [x] Correlated and non-correlated subqueries
-- [ ] CASE WHEN statements
-- [ ] Nested queries
+- [x] CASE WHEN statements
+- [x] Nested queries
 
-### **Module 11: CTEs and Views**
-*Duration: 46m 9s | Lectures: 0/4*
-- [ ] Common Table Expressions (WITH clause)
-- [ ] Creating and managing views
-- [ ] Materialized views
+### **Module 11: CTEs and Views** ✅
+*Duration: 46m 9s | Lectures: 4/4*
+- [x] Common Table Expressions (WITH clause)
+- [x] Creating and managing views
+- [x] Materialized views
 
-### **Module 12: Advanced Topics**
-*Duration: 1h 55m | Lectures: 0/8*
-- [ ] Window functions
-- [ ] Advanced query optimization
-- [ ] Stored procedures and triggers
+### **Module 12: Advanced Topics** ✅
+*Duration: 1h 55m | Lectures: 8/8*
+- [x] Window functions
+- [x] Advanced query optimization
+- [x] Stored procedures and triggers
 
-### **📝 Assignment 1** ⏳
-*Status: Pending*
+### **📝 Assignment 1**  🔄
+*Status: InProgress*
 
 ---
 
@@ -664,7 +664,7 @@ End-to-end data engineering pipeline for e-commerce analytics:
 
 | Assignment | Module Coverage | Status | Topics |
 |------------|----------------|--------|--------|
-| **Assignment 1** | Modules 4-12 | ⏳ Pending | SQL Fundamentals, Joins, CTEs, Subqueries |
+| **Assignment 1** | Modules 4-12 | ⏳ InProgress | SQL Fundamentals, Joins, CTEs, Subqueries |
 | **Assignment 2** | Modules 13-21 | ⏳ Pending | Python, Pandas, Performance Tuning |
 | **Assignment 3** | Modules 22-25 | ⏳ Pending | GCP, Big Data, Spark Architecture |
 | **Assignment 4** | Modules 26-36 | ⏳ Pending | Spark SQL, Transformations, JSON |
@@ -760,7 +760,8 @@ This project is for educational purposes. Course content belongs to TuteDude.
 - ✅ **Module 7 Completed**: April 24, 2026
 - ✅ **Module 8 Completed**: April 24, 2026
 - ✅ **Module 9 Completed**: April 24, 2026
-- ✅ **Module 10 In Progress**: April 24, 2026
+- ✅ **Module 11 Completed**: April 25, 2026
+- ✅ **Module 12 Completed**: April 27, 2026
 
 
 
