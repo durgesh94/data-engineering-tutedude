@@ -9,7 +9,7 @@ A comprehensive hands-on learning repository documenting my journey through data
 - **Total Modules**: 50
 - **Completed**: Module 1-12 ✅
 - **In Progress**: Module 13 onwards
-- **Assignments**: 1/8 completed
+- **Assignments**: 1/8 completed ✅ (SQL Mastery - 30 questions + Olist Dataset)
 - **Projects**: 0/3 completed
 - **Total Duration**: ~65+ hours
 
@@ -45,10 +45,15 @@ A comprehensive hands-on learning repository documenting my journey through data
 ---
 
 ## Phase 1: SQL Fundamentals 💾
+**Status:** ✅ COMPLETED  
+**Modules:** 9 | **Duration:** 10 Hours  
+**Assignment:** 1 ✅ **Duration:** 7-8 Hours | **Deliverables:** 30 SQL questions + Full Olist E-Commerce Dataset Analysis
 
 ### **Module 4: Introduction to SQL Queries** ✅
 *Duration: 41m 15s | Lectures: 3/3*
 - [x] SQL basics and query structure
+- [x] Understanding relationships (1:1, 1:N, M:N)
+- [x] Foreign keys and referential integrity
 
 ### **Module 5: Manipulation Commands in SQL** ✅
 *Duration: 1h 24m | Lectures: 7/7*
@@ -96,8 +101,24 @@ A comprehensive hands-on learning repository documenting my journey through data
 - [x] Advanced query optimization
 - [x] Stored procedures and triggers
 
-### **📝 Assignment 1**  ✅
-*Status: Completed*
+### **📝 Assignment 1: SQL Mastery - E-Commerce Analytics** ✅
+*Status: **COMPLETED** | Date: April 28, 2026 | Score: Production-Ready*
+
+**Deliverables:**
+- ✅ 30 SQL questions covering schema design, data cleaning, joins, aggregations, subqueries, CTEs, window functions, optimization
+- ✅ Full 3NF database schema (8 base tables + 1 helper table) with constraints and indexes
+- ✅ Data dictionary with business definitions
+- ✅ Data quality profiling (24 findings with actual CSV evidence)
+- ✅ Python CSV loader script (bypasses LOAD DATA LOCAL INFILE restrictions)
+- ✅ All 8 Olist CSV files loaded: 1.4M+ rows across all tables
+- ✅ Analytics queries with real e-commerce business insights
+- ✅ Stored procedures for dynamic discounts and reporting
+- ✅ Performance optimization report (78-88% query improvements via B-tree indexes)
+- ✅ Complete documentation and workflow guide
+
+**Technologies Used:** MySQL 8.0, Python 3.14, SQL, Olist Brazilian E-Commerce Dataset
+
+**Location:** [assignments/assignment-01-sql/](assignments/assignment-01-sql/)
 
 ---
 
@@ -665,8 +686,8 @@ End-to-end data engineering pipeline for e-commerce analytics:
 
 | Assignment | Module Coverage | Status | Topics |
 |------------|----------------|--------|--------|
-| **Assignment 1** | Modules 4-12 | ✅ Completed | SQL Fundamentals, Joins, CTEs, Subqueries |
-| **Assignment 2** | Modules 13-21 | 🔄 In Progress | Python, Pandas, Performance Tuning |
+| **Assignment 1** | Modules 4-12 | ✅ Completed (30 Qs) | SQL Fundamentals, Schema Design, Joins, CTEs, Subqueries, Window Functions, Optimization, Olist Dataset |
+| **Assignment 2** | Modules 13-21 | ⏳ Pending | Python, Pandas, Performance Tuning |
 | **Assignment 3** | Modules 22-25 | ⏳ Pending | GCP, Big Data, Spark Architecture |
 | **Assignment 4** | Modules 26-36 | ⏳ Pending | Spark SQL, Transformations, JSON |
 | **Assignment 5** | Modules 37-42 | ⏳ Pending | PySpark DataFrames, Integration |
