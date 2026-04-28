@@ -7,9 +7,9 @@ A comprehensive hands-on learning repository documenting my journey through data
 ## 📊 Overall Progress
 
 - **Total Modules**: 50
-- **Completed**: Module 1-5 ✅
-- **In Progress**: Module 6 onwards
-- **Assignments**: 0/8 completed
+- **Completed**: Module 1-12 ✅
+- **In Progress**: Module 13 onwards
+- **Assignments**: 1/8 completed
 - **Projects**: 0/3 completed
 - **Total Duration**: ~65+ hours
 
@@ -96,14 +96,14 @@ A comprehensive hands-on learning repository documenting my journey through data
 - [x] Advanced query optimization
 - [x] Stored procedures and triggers
 
-### **📝 Assignment 1**  🔄
-*Status: InProgress*
+### **📝 Assignment 1**  ✅
+*Status: Completed*
 
 ---
 
 ## Phase 2: Python Programming 🐍
 
-### **Module 13: Introduction to Python Programming**
+### **Module 13: Introduction to Python Programming** 🔄
 *Duration: 1h 13m | Lectures: 0/5*
 - [ ] Python basics and syntax
 - [ ] Variables, data types, operators
@@ -423,7 +423,8 @@ data-engineering-tutedude/
 │   ├── 06-set-operators/
 │   ├── 07-subqueries/
 │   ├── 08-ctes-views/
-│   └── 09-advanced/
+│   ├── 09-advanced/
+│   └── 10-mini-project/
 │
 ├── python/                        # Python scripts and notebooks
 │   ├── 01-fundamentals/
@@ -664,8 +665,8 @@ End-to-end data engineering pipeline for e-commerce analytics:
 
 | Assignment | Module Coverage | Status | Topics |
 |------------|----------------|--------|--------|
-| **Assignment 1** | Modules 4-12 | ⏳ InProgress | SQL Fundamentals, Joins, CTEs, Subqueries |
-| **Assignment 2** | Modules 13-21 | ⏳ Pending | Python, Pandas, Performance Tuning |
+| **Assignment 1** | Modules 4-12 | ✅ Completed | SQL Fundamentals, Joins, CTEs, Subqueries |
+| **Assignment 2** | Modules 13-21 | 🔄 In Progress | Python, Pandas, Performance Tuning |
 | **Assignment 3** | Modules 22-25 | ⏳ Pending | GCP, Big Data, Spark Architecture |
 | **Assignment 4** | Modules 26-36 | ⏳ Pending | Spark SQL, Transformations, JSON |
 | **Assignment 5** | Modules 37-42 | ⏳ Pending | PySpark DataFrames, Integration |
