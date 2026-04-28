@@ -777,7 +777,6 @@ This project is for educational purposes. Course content belongs to TuteDude.
 - [Projects](#key-projects)
 - [Assignments](#assignments-overview)
 
----
 
 <div align="center">
 
@@ -785,7 +784,7 @@ This project is for educational purposes. Course content belongs to TuteDude.
 
 > *"Data is the new oil, and data engineers are the refiners."*
 
-**Last Updated**: March 10, 2026  
+**Last Updated**: April 28, 2026  
 **Status**: 🟢 Actively Learning
 
 </div>

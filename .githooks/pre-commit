@@ -1,0 +1,14 @@
+#!/bin/zsh
+
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel)"
+readme_rel="README.md"
+
+if ! git diff --cached --name-only -- "$readme_rel" | grep -qx "$readme_rel" && \
+   ! git diff --name-only -- "$readme_rel" | grep -qx "$readme_rel"; then
+    exit 0
+fi
+
+"$repo_root/scripts/update-readme-last-updated.sh" "$repo_root"
+git add "$readme_rel"
