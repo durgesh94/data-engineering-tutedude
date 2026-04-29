@@ -7,8 +7,8 @@ A comprehensive hands-on learning repository documenting my journey through data
 ## 📊 Overall Progress
 
 - **Total Modules**: 50
-- **Completed**: Module 1-12 ✅
-- **In Progress**: Module 13 onwards
+- **Completed**: Module 1-14 ✅
+- **In Progress**: Module 15 onwards
 - **Assignments**: 1/8 completed ✅ (SQL Mastery - 30 questions + Olist Dataset)
 - **Projects**: 0/3 completed
 - **Total Duration**: ~65+ hours
@@ -124,18 +124,18 @@ A comprehensive hands-on learning repository documenting my journey through data
 
 ## Phase 2: Python Programming 🐍
 
-### **Module 13: Introduction to Python Programming** 🔄
-*Duration: 1h 13m | Lectures: 0/5*
-- [ ] Python basics and syntax
-- [ ] Variables, data types, operators
+### **Module 13: Introduction to Python Programming** ✅
+*Duration: 1h 13m | Lectures: 5/5*
+- [x] Python basics and syntax
+- [x] Variables, data types, operators
 
-### **Module 14: Data Structures in Python**
-*Duration: 1h 48m | Lectures: 0/8*
-- [ ] Lists, tuples, sets, dictionaries
-- [ ] String manipulation
-- [ ] Data structure operations
+### **Module 14: Data Structures in Python** ✅
+*Duration: 1h 48m | Lectures: 8/8*
+- [x] Lists, tuples, sets, dictionaries
+- [x] String manipulation
+- [x] Data structure operations
 
-### **Module 15: Functions, Modules & File Handling**
+### **Module 15: Functions, Modules & File Handling** 🔄
 *Duration: 2h 9m | Lectures: 0/11*
 - [ ] Function definitions and parameters
 - [ ] Lambda functions
@@ -784,6 +784,9 @@ This project is for educational purposes. Course content belongs to TuteDude.
 - ✅ **Module 9 Completed**: April 24, 2026
 - ✅ **Module 11 Completed**: April 25, 2026
 - ✅ **Module 12 Completed**: April 27, 2026
+- ✅ **Module 13 Completed**: April 28, 2026
+- ✅ **Module 14 Completed**: April 29, 2026
+- ✅ **Module 15 In Progress**: April 29, 2026
 
 
 
@@ -805,7 +808,7 @@ This project is for educational purposes. Course content belongs to TuteDude.
 
 > *"Data is the new oil, and data engineers are the refiners."*
 
-**Last Updated**: April 28, 2026  
+**Last Updated**: April 29, 2026  
 **Status**: 🟢 Actively Learning
 
 </div>
